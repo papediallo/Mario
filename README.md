@@ -1,4 +1,4 @@
-##Il s'agit du jeu super populaire Mario 
+Il s'agit du jeu super populaire Mario 
 
 Lorsqu'il joue, le joueur endosse le rôle de Mario et doit parcourir le Royaume Champignon. Le joueur doit survivre aux forces maléfiques du méchant du jeu, Bowser, et sauver la princesse Peach. Pour gagner le jeu, Mario doit atteindre le mât du drapeau à la fin de chaque niveau.
 
